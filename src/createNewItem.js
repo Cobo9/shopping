@@ -9,23 +9,23 @@ function createNewItem(){
     idGenerator++;
     switch (item.article) {
   
-      case 'warzywa':
+      case 'vegetables':
         lists.vegetables.push(item);
         break;
   
-      case 'owoce':
+      case 'fruit':
         lists.fruit.push(item);
         break;
   
-      case 'nabiał':
+      case 'dairy':
         lists.dairy.push(item);
         break;
   
-      case 'pieczywo':
+      case 'bread':
         lists.bread.push(item);
         break;
   
-      case 'higiena':
+      case 'hygienics':
         lists.hygienics.push(item);
         break;
         
