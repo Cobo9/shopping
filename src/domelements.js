@@ -1,0 +1,10 @@
+export const form = document.querySelector('.form');
+export const name = document.querySelector('.name');
+export const number = document.querySelector('.number');
+export const amount = document.querySelector('#amount');
+export const weight = document.querySelector('#weight');
+export const article = document.querySelector('.article');
+export const listsContainer = document.querySelector('.lists__container');
+export const counter = document.querySelector('.counter');
+export const totalWeight = document.querySelector('.total__weight');
+export const totalAmount = document.querySelector('.total__amount');
